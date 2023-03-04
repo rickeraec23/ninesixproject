@@ -1,0 +1,24 @@
+{
+  "name": "6-projectportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickeraec23/ninesixproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickeraec23/ninesixproject/issues"
+  },
+  "homepage": "https://github.com/rickeraec23/ninesixproject#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
